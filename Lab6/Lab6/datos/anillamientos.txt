@@ -1,0 +1,6 @@
+A-102;Garza Tigre;380.5;M;2026-05-18
+A-103;Colibri Rabitiche;4.2;H;2026-05-19
+A-104;Garza Tigre;415;X;2026-05-19
+A-105;Lapa Roja;920.8;H;2026-05-20
+;Garza Invalida;;M;2026-05-20
+A-999;Lapa Azul;-10.0;Z;2026-05-20
